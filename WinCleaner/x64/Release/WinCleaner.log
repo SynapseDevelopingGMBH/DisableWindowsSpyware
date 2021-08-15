@@ -1,0 +1,8 @@
+﻿  WinCleaner.cpp
+  Code wird generiert.
+C:\Users\SynapseDeveloping\Desktop\Github\WInGreat\WinCleaner\WinCleaner.cpp(101): warning C4717: "main": Rekursiv für alle Steuerelementpfade. Die Funktion verursacht einen Stapelüberlauf zur Laufzeit.
+  1 of 43 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+  Codegenerierung ist abgeschlossen.
+    4 functions had inline decision re-evaluated but remain unchanged
+  WinCleaner.vcxproj -> C:\Users\SynapseDeveloping\Desktop\Github\WInGreat\WinCleaner\x64\Release\WinCleaner.exe
